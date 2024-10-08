@@ -1,1 +1,1 @@
-{"<pad>": 0, "<start>": 1, "<end>": 2, "Facts": 3, "Argument": 4, "Ratio of the decision": 5, "Statute": 6, "Precedent": 7, "Ruling by Present Court": 8, "Ruling by Lower Court": 9}
+{"<pad>": 0, "<start>": 1, "<end>": 2, "Facts": 3, "Argument": 4, "Ratio of the decision": 5, "Statute": 6, "Precedent": 7, "Ruling by Present Court": 8, "Ruling by Lower Court": 9, "Case Title": 10, "Issue": 11, "RespArg": 12, "Section": 13, "Conclusion": 14, "Total Judgement": 15, "PetArg": 16}
